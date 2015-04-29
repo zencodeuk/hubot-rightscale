@@ -1,0 +1,39 @@
+{
+  "name": "hubot-rightscale",
+  "version": "1.0.0",
+  "description": "Rightscale Hubot Script",
+  "main": "index.coffee",
+  "dependencies": {
+  },
+  "peerDependencies": {
+    "hubot": "2.x"
+  },
+  "devDependencies": {
+    "hubot": "2.x",
+    "mocha": "*",
+    "chai": "*",
+    "sinon-chai": "*",
+    "sinon": "*",
+    "grunt-mocha-test": "~0.7.0",
+    "grunt-release": "~0.6.0",
+    "matchdep": "~0.1.2",
+    "grunt-contrib-watch": "~0.5.3"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikesmithmsm/hubot-rightscale.git"
+  },
+  "keywords": [
+    "hubot",
+    "rightscale"
+  ],
+  "author": "Mikey Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikesmithmsm/hubot-rightscale/issues"
+  },
+  "homepage": "https://github.com/mikesmithmsm/hubot-rightscale"
+}
