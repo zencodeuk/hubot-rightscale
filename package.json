@@ -1,10 +1,9 @@
 {
   "name": "hubot-rightscale",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Rightscale Hubot Script",
   "main": "index.coffee",
-  "dependencies": {
-  },
+  "dependencies": {},
   "peerDependencies": {
     "hubot": "2.x"
   },
